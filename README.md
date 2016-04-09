@@ -1,0 +1,2 @@
+# KolkoKrzyzyk
+game of logic 
